@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
 
 <!--
 **superwaltz/superwaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
